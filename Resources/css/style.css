@@ -1,4 +1,7 @@
-body {background-color: black;}
+body {
+	background-color: black;
+	text-align: center;
+}
 
 .discover h1 {
 font-family: verdana;
@@ -12,5 +15,33 @@ text-align: center;
 .discover a {
 	color: aquamarine;
 	font-size: 16px;
-	text-align: center;
+	text-align: horizontal-center;
 }
+
+h3{
+	font-family: verdana;
+	font-weight: 300;
+	font-size: 42px;
+	color: white;
+}
+
+p{
+	font-family: verdana;
+	font-size: 21px;
+	color: gray;
+}
+
+.cta{
+	color: aquamarine;
+	font-size: 16px;
+	text-align: horizontal-center;
+}
+
+.footer{
+	text-align: right;
+	color: gray;
+}
+
+
+
+
